@@ -7,3 +7,6 @@ Foi editado
 Estudando o git diff.
 
 bruno@b2sdigital.com.br
+
+
+Alteração para a tag
