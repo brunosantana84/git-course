@@ -10,5 +10,3 @@ bruno@b2sdigital.com.br
 
 
 Alteração para a tag
-
-reteat
